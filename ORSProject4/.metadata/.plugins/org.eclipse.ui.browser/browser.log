@@ -1,0 +1,5 @@
+
+Oct 14, 2020 12:52:24.70 NEW SESSION
+Oct 14, 2020 12:52:24.70 [244:5904:1014/125224.701:ERROR:device_event_log_impl.cc(208)] [12:52:24.702] Bluetooth: bluetooth_adapter_winrt.cc:716 GetBluetoothAdapterStaticsActivationFactory failed: Class not registered (0x80040154)
+Oct 14, 2020 13:02:10.69 [1014/130210.692:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Oct 14, 2020 13:15:19.07 [4352:5212:1014/131519.071:ERROR:device_event_log_impl.cc(208)] [13:15:19.070] Bluetooth: bluetooth_adapter_winrt.cc:716 GetBluetoothAdapterStaticsActivationFactory failed: Class not registered (0x80040154)

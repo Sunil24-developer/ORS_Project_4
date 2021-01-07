@@ -1,0 +1,12 @@
+127.0.0.1 - - [13/Oct/2020:12:03:50 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:03:53 +0530] "GET /OnlineResultsystem/ HTTP/1.1" 200 534
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:04:13 +0530] "GET /OnlineResultsystem/ HTTP/1.1" 200 534
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:04:18 +0530] "GET /OnlineResultsystem/WelcomeCtl HTTP/1.1" 200 1586
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:04:21 +0530] "GET /OnlineResultsystem/LoginCtl HTTP/1.1" 200 2930
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:04:25 +0530] "POST /OnlineResultsystem/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:04:25 +0530] "GET /OnlineResultsystem/WelcomeCtl HTTP/1.1" 200 1796
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:10:43 +0530] "GET /OnlineResultsystem/LoginCtl?operation=LogOut HTTP/1.1" 200 2953
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:10:45 +0530] "POST /OnlineResultsystem/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:10:45 +0530] "GET /OnlineResultsystem/WelcomeCtl HTTP/1.1" 200 1798
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:10:48 +0530] "GET /OnlineResultsystem/WelcomeCtl HTTP/1.1" 200 1798
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:12:10:48 +0530] "GET /OnlineResultsystem/img/logo.png HTTP/1.1" 200 19649
